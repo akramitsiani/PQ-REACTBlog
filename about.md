@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Christina Sinopli
+Anastasia Karamitsiani
 
 ### Contact me
 
-[email@domain.com](csinopli@gmail.com)
+[email@domain.com](akaramitsiani@gmail.com)
