@@ -8,4 +8,4 @@ Anastasia Karamitsiani
 
 ### Contact me
 
-[email@domain.com](akaramitsiani@gmail.com)
+[akaramitsiani@gmail.com](mailto:akaramitsiani@gmail.com)
