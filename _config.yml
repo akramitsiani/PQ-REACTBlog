@@ -2,7 +2,7 @@
 name: PQ-REACT PROJECT BLOG
 baseurl: /PQ-REACTBlog
 
-avatar: ./images/shield_logo.png
+avatar: ./images/PQ-REACT_Logo_Horizontal.png
 
 permalink: /:title/
 
